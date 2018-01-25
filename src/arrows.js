@@ -47,6 +47,7 @@ console.log(1 in arr1);
 console.log(0 in arr1);
 console.log(2 in arr1);
 console.log(3 in arr1);
+console.log(4 in arr1);
 
 //数组遍历
 let arr2 = ['xx','xo','oo'];
